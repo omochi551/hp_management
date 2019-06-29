@@ -11,4 +11,4 @@ make html
 # make publish
 ghp-import output
 # git push origin gh-pages
-git push https://github.com/oumpy/oumpy.github.io.git 
+git push https://github.com/oumpy/oumpy.github.io.git gh-pages:master
